@@ -1,0 +1,63 @@
+# ========== BACKEND (Spring Boot) ==========
+
+# Maven build
+/gestionstagebackend/target/
+
+/gestionstagebackend/.idea/
+/gestionstagebackend/.vscode/
+gestionstagebackend/*.iws
+/gestionstagebackend/*.iml
+/gestionstagebackend/*.ipr
+
+# Eclipse / STS
+/gestionstagebackend/.apt_generated
+/gestionstagebackend/.classpath
+/gestionstagebackend/.factorypath
+/gestionstagebackend/.project
+/gestionstagebackend/.settings
+/gestionstagebackend/.springBeans
+/gestionstagebackend/.sts4-cache
+
+# NetBeans
+/gestionstagebackend/nbproject/private/
+/gestionstagebackend/nbbuild/
+/gestionstagebackend/dist/
+/gestionstagebackend/nbdist/
+/gestionstagebackend/.nb-gradle/
+/gestionstagebackend/build/
+
+# Maven wrapper
+/gestionstagebackend/.mvn/
+!/gestionstagebackend/.mvn/wrapper/maven-wrapper.jar
+!/gestionstagebackend/.mvn/wrapper/maven-wrapper.properties
+
+# Fichiers système
+/gestionstagebackend/.DS_Store
+/gestionstagebackend/Thumbs.db
+
+# ========== FRONTEND (React) ==========
+
+/gestionstagiairesfrontend/node_modules/
+/gestionstagiairesfrontend/.pnp
+/gestionstagiairesfrontend/.pnp.js
+/gestionstagiairesfrontend/coverage
+/gestionstagiairesfrontend/build
+/gestionstagiairesfrontend/.DS_Store
+/gestionstagiairesfrontend/.eslintcache
+/gestionstagiairesfrontend/.parcel-cache
+
+/gestionstagiairesfrontend/.env.local
+/gestionstagiairesfrontend/.env.development.local
+/gestionstagiairesfrontend/.env.test.local
+/gestionstagiairesfrontend/.env.production.local
+
+/gestionstagiairesfrontend/npm-debug.log*
+/gestionstagiairesfrontend/yarn-debug.log*
+/gestionstagiairesfrontend/yarn-error.log*
+
+# ========== GÉNÉRAL ==========
+*.log
+*.class
+*.iml
+*.ipr
+.DS_Store
